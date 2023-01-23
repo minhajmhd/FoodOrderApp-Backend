@@ -1,0 +1,101 @@
+[
+    {
+        "idCategory": "1",
+        "strCategory": "Burger",
+        "price": 129,
+        "strCategoryThumb": "https://assets.cntraveller.in/photos/60ba26c0bfe773a828a47146/4:3/w_1440,h_1080,c_limit/Burgers-Mumbai-Delivery.jpg",
+        "strCategoryDescription": "A hamburger, or simply burger, is a food consisting of fillings—usually a patty of ground meat, typically beef—placed inside a sliced bun or bread roll.."
+    },
+    {
+        "idCategory": "2",
+        "strCategory": "Seafood",
+        "price": 339,
+        "strCategoryThumb": "https:\/\/www.themealdb.com\/images\/category\/seafood.png",
+        "strCategoryDescription": "Seafood is any form of sea life regarded as food by humans. Seafood prominently includes fish and shellfish."
+    },
+    
+    {
+        "idCategory": "3",
+        "strCategory": "Dessert",
+        "price": 99,
+        "strCategoryThumb": "https:\/\/www.themealdb.com\/images\/category\/dessert.png",
+        "strCategoryDescription": "Dessert is a course that concludes a meal. The course usually consists of sweet foods."
+    },
+    {
+        "idCategory": "4",
+        "strCategory": "Lamb",
+        "price": 109,
+        "strCategoryThumb": "https:\/\/www.themealdb.com\/images\/category\/lamb.png",
+        "strCategoryDescription": "Lamb, hogget, and mutton are the meat of domestic sheep at different ages."
+    },
+    {
+        "idCategory": "5",
+        "strCategory": "Miscellaneous",
+        "price": 99,
+        "strCategoryThumb": "https:\/\/www.themealdb.com\/images\/category\/miscellaneous.png",
+        "strCategoryDescription": "General foods that don't fit into another category"
+    },
+    {
+        "idCategory": "6",
+        "strCategory": "Pasta",
+        "price": 299,
+        "strCategoryThumb": "https:\/\/www.themealdb.com\/images\/category\/pasta.png",
+        "strCategoryDescription": "Pasta is a staple food of traditional Italian cuisine, with the first reference dating to 1154 in Sicily."
+    },
+    {
+        "idCategory": "7",
+        "strCategory": "Pork",
+        "price": 249,
+        "strCategoryThumb": "https:\/\/www.themealdb.com\/images\/category\/pork.png",
+        "strCategoryDescription": "Pork is the culinary name for meat from a domestic pig (Sus scrofa domesticus)."
+    },
+    {
+        "idCategory": "8",
+        "strCategory": "Chicken",
+        "price": 179,
+        "strCategoryThumb": "https:\/\/www.themealdb.com\/images\/category\/chicken.png",
+        "strCategoryDescription": "Chicken is a type of domesticated fowl, a subspecies of the red junglefowl."
+    },
+    {
+        "idCategory": "9",
+        "strCategory": "Side",
+        "price": 229,
+        "strCategoryThumb": "https:\/\/www.themealdb.com\/images\/category\/side.png",
+        "strCategoryDescription": "A side dish, sometimes referred to as a side order, is a food item that accompanies the entrée or main course at a meal."
+    },
+    {
+        "idCategory": "10",
+        "strCategory": "Starter",
+        "price": 259,
+        "strCategoryThumb": "https:\/\/www.themealdb.com\/images\/category\/starter.png",
+        "strCategoryDescription": "An entrée in modern French table service and that of much of the English-speaking world  is a dish served before the main course of a meal."
+    },
+    {
+        "idCategory": "11",
+        "strCategory": "Vegan",
+        "price": 319,
+        "strCategoryThumb": "https:\/\/www.themealdb.com\/images\/category\/vegan.png",
+        "strCategoryDescription": "Veganism is both the practice of abstaining from the use of animal products, and an associated philosophy that rejects the commodity status of animals."
+    },
+    {
+        "idCategory": "12",
+        "strCategory": "Vegetarian",
+        "price": 119,
+        "strCategoryThumb": "https:\/\/www.themealdb.com\/images\/category\/vegetarian.png",
+        "strCategoryDescription": "Vegetarianism is the practice of abstaining from the consumption of meat (red meat, poultry, seafood, and the flesh of any other animal)."
+    },
+    {
+        "idCategory": "13",
+        "strCategory": "Breakfast",
+        "price": 79,
+        "strCategoryThumb": "https:\/\/www.themealdb.com\/images\/category\/breakfast.png",
+        "strCategoryDescription": "Breakfast is the first meal of a day. The word in English refers to breaking the fasting period of the previous night."
+    },
+    {
+        "idCategory": "14",
+        "strCategory": "Goat",
+        "price": 399,
+        "strCategoryThumb": "https:\/\/www.themealdb.com\/images\/category\/goat.png",
+        "strCategoryDescription": "The domestic goat or simply goat (Capra aegagrus hircus) is a subspecies of C."
+    }
+]
